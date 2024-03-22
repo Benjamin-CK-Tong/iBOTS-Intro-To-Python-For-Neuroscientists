@@ -1,6 +1,12 @@
 
 # Intro to Python and Pandas for Neuroscientists
 
+##### Hi iBOTS team, thank you for teaching us all these amazing things!
+
+Copied by Ben
+
+**test**
+
 Taught in March 2024 at the Max Planck Institute of Biological Intelligence.
 
 Teachers:
